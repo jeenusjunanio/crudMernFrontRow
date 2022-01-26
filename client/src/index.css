@@ -1,0 +1,6 @@
+/* ------------- Influencer -------------- */
+
+@import url("./components/pages/admin/influencers/Influencers.css");
+@import url("./components/pages/admin/influencers/AddInfluencer.css");
+/* import the login page css */
+@import url("./components/utils/Login.css");
